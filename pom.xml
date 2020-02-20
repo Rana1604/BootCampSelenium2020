@@ -152,9 +152,9 @@
                         <include>testhome.package</include>
                     </includes>
                     <suiteXmlFiles>
-                        <!--                       <suiteXmlFiles>CommerceTestRunner.xml</suiteXmlFiles>-->
-                        <!--                        <suiteXmlFiles>target/test-classes/CNNTestRunner.xml</suiteXmlFiles>-->
-                        <!--                        <suiteXmlFiles>target/test-classes/BBCTestRunner.xml</suiteXmlFiles>-->
+                        <!--<suiteXmlFiles>CommerceTestRunner.xml</suiteXmlFiles>-->
+                        <!-- <suiteXmlFiles>target/test-classes/CNNTestRunner.xml</suiteXmlFiles>-->
+                        <!-- <suiteXmlFiles>target/test-classes/BBCTestRunner.xml</suiteXmlFiles>-->
                     </suiteXmlFiles>
                 </configuration>
             </plugin>
